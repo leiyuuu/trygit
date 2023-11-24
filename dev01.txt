@@ -1,0 +1,4 @@
+this is my first use of git
+and what's more, i'v never use anything like a vim
+this is really fascinating, right?
+i sincerely hope that i can be better in the future
